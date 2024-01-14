@@ -1,7 +1,5 @@
 int lightPin = 8;
 String lightValue;
-char on = "ON";
-char off = "OFF";
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(9600);
